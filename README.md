@@ -15,3 +15,7 @@ The  project Desription found in google slide https://docs.google.com/presentati
                                     PREVIEW
                                     
 ![Screenshot (15)](https://github.com/user-attachments/assets/258d2681-6dd0-4782-8105-d60416f3eeff)
+
+                          Inspiration
+                          
+Did you know that 77% of internet users read blogs? This new blogging application is designed to capture their attention and grow an audience of blog readers. As an avid blog reader myself, I saw a great opportunity to create a platform that encourages both readers and writers to engage with topics they are passionate about. Hence, the creation of this blogging platform.
